@@ -31,49 +31,49 @@
                 <td align="left">L'essenza</td>
                 <td align="left">Lombardia</td>
                 <td align="center">2</td>
-                <td align="center">87,00$</td>
+                <td align="center">87,00€</td>
             </tr>
         
             <tr class="cella">
                 <td align="left">Sara</td>
                 <td align="left">Lombardia</td>
                 <td align="center">4</td>
-                <td align="center">142,00$</td>
+                <td align="center">142,00€</td>
             </tr>
 
             <tr>
                 <td align="left">Grand hotel</td>
                 <td align="left">Emilia Romagna</td>
                 <td align="center">5</td>
-                <td align="center">280,00$</td>
+                <td align="center">280,00€</td>
             </tr>
 
             <tr class="cella">
                 <td align="left">Capriccio</td>
                 <td align="left">Calabria</td>
                 <td align="center">4</td>
-                <td align="center">155,00$</td>
+                <td align="center">155,00€</td>
             </tr>
 
             <tr>
                 <td align="left">Ambassador</td>
                 <td align="left">Calabria</td>
                 <td align="center">2</td>
-                <td align="center">84,00$</td>
+                <td align="center">84,00€</td>
             </tr>
 
             <tr class="cella">
                 <td align="left">Aster</td>
                 <td align="left">Emilia Romagna</td>
                 <td align="center">3</td>
-                <td align="center">134,00$</td>
+                <td align="center">134,00€</td>
             </tr>
 
             <tr>
                 <td align="left">Jazz</td>
                 <td align="left">Sardegna</td>
                 <td align="center">2</td>
-                <td align="center">134,00$</td>
+                <td align="center">134,00€</td>
             </tr>
 
     </table>
