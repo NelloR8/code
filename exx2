@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guide Facili per Imparare l'Informatica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            padding: 20px;
+            width: 550px;
+            border: 5px solid #caa800;
+            text-align: center;
+            height: 135px;
+            
+        }
+        .title {
+            font-weight: bold;
+            font-size: 14px;
+            margin-top: -10px;
+        }
+        .content {
+            margin-top: 0px;
+            font-size: 14px;
+            margin-right: 195px;
+        }
+        .content b {
+            display: block;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">GUIDE FACILI PER IMPARARE L'INFORMATICA</div><br>
+        <div class="content">
+            Scarica gratis o acquista i libri <br>
+            Pc da Zero di Crestani Gianni:
+            <b>PC da Zero Volume 1</b>
+            <b>PC da Zero Volume 2 (Office)</b>
+            <b>Windows 10 istruzioni facili per l'uso</b>
+            
+            clicca sull'immagine a fianco --&gt;&gt;
+        </div>
+    </div>
+</body>
+</html>
